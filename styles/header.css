@@ -27,7 +27,7 @@
     display: none;
     position: absolute;
     top: 100%; 
-    width: 60vw;
+    width: 40vw;
     border-radius: 0 0 20px 20px;
 }
 .container__botao:checked~.lista-menu {
